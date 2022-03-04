@@ -1,0 +1,1 @@
+The application presents a simple forum for users. To create a thread called a Topic, you must be on the list of sub-distributors (new Subscriber). After creating a Topic, you can write messages on it. 
